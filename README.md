@@ -50,4 +50,4 @@ TASK 3: FOR PART A HackerRank, CodeChef, or HackerEarth.
         FOR PART B  Create a Google Form .
       
 task 1 link for the presentation :https://www.canva.com/design/DAHE4fgeclI/EdAzmTxpXHFQhScqGR_GTg/edit?ui=e30&referrer=https%3A%2F%2Fwww.canva.com%2F
-
+TASK 2 C:\Users\bhoomika payasi\Music\task2 portfolio
