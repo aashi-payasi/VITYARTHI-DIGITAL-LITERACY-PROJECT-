@@ -52,4 +52,5 @@ TASK 3: FOR PART A HackerRank, CodeChef, or HackerEarth.
 **task 1 link for the presentation** :https://www.canva.com/design/DAHE4fgeclI/EdAzmTxpXHFQhScqGR_GTg/edit?ui=e30&referrer=https%3A%2F%2Fwww.canva.com%2F
 **TASK 2**: C:\Users\bhoomika payasi\Music\task2 portfolio
 **TASK 4:#PART B** LINK OF CHECKLIST: https://github.com/aashi-payasi/VITYARTHI-DIGITAL-LITERACY-PROJECT-/blob/main/task4/checklist.md
-**TASK 5:# PART B**  LINK OF CHECKLIST:https://github.com/aashi-payasi/VITYARTHI-DIGITAL-LITERACY-PROJECT-/blob/main/task5/prevention-checklist.md
+**TASK 5:# PART A**LINK OF CHECKLIST: https://github.com/aashi-payasi/VITYARTHI-DIGITAL-LITERACY-PROJECT-/blob/main/task5/casestudy.md
+**TASK 5:# PART B**LINK OF CHECKLIST:https://github.com/aashi-payasi/VITYARTHI-DIGITAL-LITERACY-PROJECT-/blob/main/task5/prevention-checklist.md
