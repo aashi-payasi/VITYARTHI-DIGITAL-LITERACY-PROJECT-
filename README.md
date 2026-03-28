@@ -2,7 +2,7 @@
 
 NAME- BHOOMIKA PAYASI
 REGISTRATION NUMBER- 25MIM10036
-The scenerio under which i am makaing my project as given by teacher is:I have just been selected as a Student Digital Ambassador at my college. My role
+The scenerio under which i am making my project as given by teacher is:I have just been selected as a Student Digital Ambassador at my college. My role
 is to help my  peers navigate the digital world — from creating professional online
 profiles, to communicating safely and responsibly online. My first assignment is to build
 a Digital Literacy Portfolio that I  will present to the faculty committee and share with
@@ -78,7 +78,10 @@ TASK 3: FOR PART A HackerRank, CodeChef, or HackerEarth.
 
 
 
-**TASK 2**: C:\Users\bhoomika payasi\Music\task2 portfolio
+**TASK 2**: C:\Users\bhoomika payasi\Music\task2 portfolio 
+
+**TASK 3 PART B : GOOGLE FORM LINK:**https://docs.google.com/forms/d/e/1FAIpQLScvLSCa8bVCfJGdq_E7xQUQxcVSWojOxLMEYdM572tqrUmtrw/viewform?usp=publish-editor
+
 
 
 **TASK 4:#PART B** LINK OF CHECKLIST: https://github.com/aashi-payasi/VITYARTHI-DIGITAL-LITERACY-PROJECT-/blob/main/task4/checklist.md
