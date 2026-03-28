@@ -49,5 +49,6 @@ TASK 2: least three of the following platforms: GitHub,LinkedIn, Kaggle, Stack O
 TASK 3: FOR PART A HackerRank, CodeChef, or HackerEarth.
         FOR PART B  Create a Google Form .
       
-task 1 link for the presentation :https://www.canva.com/design/DAHE4fgeclI/EdAzmTxpXHFQhScqGR_GTg/edit?ui=e30&referrer=https%3A%2F%2Fwww.canva.com%2F
-TASK 2 C:\Users\bhoomika payasi\Music\task2 portfolio
+**task 1 link for the presentation** :https://www.canva.com/design/DAHE4fgeclI/EdAzmTxpXHFQhScqGR_GTg/edit?ui=e30&referrer=https%3A%2F%2Fwww.canva.com%2F
+**TASK 2**: C:\Users\bhoomika payasi\Music\task2 portfolio
+**task 4:** part B LINK OF CHECKLIST: https://github.com/aashi-payasi/VITYARTHI-DIGITAL-LITERACY-PROJECT-/blob/main/task4/checklist.md
