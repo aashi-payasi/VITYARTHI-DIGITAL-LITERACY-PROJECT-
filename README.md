@@ -68,6 +68,27 @@ Helpline 1930.
 
 
 
+
+## WHAT I HAVE INSIDE THIS REPOSITERY
+Inside this repositery i have include my infograpphic page which was needed to make in task 1  under task 1 folder then 
+
+
+for task 2 i added all my portfolios screenshots of all the profiles i have in technical sites under task 2 folder.
+
+
+for task 3 I have attched my screenshots of challenges i completed and also of digital literecy awareness quiz i made from google form. 
+
+
+for task 4 i attached file  of my emials drafts and also made one file of checklist as asked.
+
+
+for task 5 i completed the case study one the crime topic ransomwan with one reaslist effect of this in aiims delhi. 
+
+
+
+
+
+
 **TOOLS USED BY ME FOR COMPLETING ALL THSES TASKS ARE:**
 TASK 1:  Canva, Prezi, Miro, or any free presentation/design tool.
 TASK 2: least three of the following platforms: GitHub,LinkedIn, Kaggle, Stack Overflow, ResearchGate.
@@ -80,7 +101,14 @@ TASK 3: FOR PART A HackerRank, CodeChef, or HackerEarth.
 
 **TASK 2**: C:\Users\bhoomika payasi\Music\task2 portfolio 
 
-**TASK 3 PART B : GOOGLE FORM LINK:**https://docs.google.com/forms/d/e/1FAIpQLScvLSCa8bVCfJGdq_E7xQUQxcVSWojOxLMEYdM572tqrUmtrw/viewform?usp=publish-editor
+
+
+
+
+
+**TASK 3 PART B**: GOOGLE FORM LINK:**https://docs.google.com/forms/d/e/1FAIpQLScvLSCa8bVCfJGdq_E7xQUQxcVSWojOxLMEYdM572tqrUmtrw/viewform?usp=publish-editor
+
+
 
 
 
