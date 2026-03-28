@@ -81,15 +81,15 @@ Expenses for repairing systems, hiring experts, and restoring data can be high.
 
 The attack disrupted hospital services for several days. Doctors and staff were forced to switch to manual record-keeping, causing delays in patient care and administrative work. Reports suggested that attackers demanded a large ransom in cryptocurrency to restore the data, although authorities worked to recover systems without paying.
 
-occurred on 23 November 2022. This attack targeted the servers of one of India’s most important hospitals.
+ ## occurred on 23 November 2022. This attack targeted the servers of one of India’s most important hospitals.
 
 The attack reportedly began when a phishing email was opened, allowing hackers to enter the system. Once inside, they exploited weak network security and spread ransomware across multiple servers. Around 1.3 terabytes of data and nearly 4 crore (40 million) patient records were affected or put at risk. The attackers encrypted critical hospital data and allegedly demanded around ₹200 crore in cryptocurrency as ransom.
 
-As a result, AIIMS servers stopped working, and digital services like patient registration, reports, and billing were shut down. The hospital had to switch to manual operations for several days, causing delays in treatment and affecting patient care. This showed how ransomware can even impact human lives, not just data.
+ ## As a result, AIIMS servers stopped working, and digital services like patient registration, reports, and billing were shut down. The hospital had to switch to manual operations for several days, causing delays in treatment and affecting patient care. This showed how ransomware can even impact human lives, not just data.
 
 Hospitals are common targets because they rely on immediate data access and cannot afford downtime. The consequences included operational disruption, risk to sensitive patient data, financial loss, and damage to trust.
 
 This incident highlights the need for strong cybersecurity, regular system updates, employee awareness, and data backups to prevent such attacks.
 This incident highlights the importance of strong cybersecurity practices such as regular system updates, secure networks, employee awareness, and data backups.
 
-Source: News reports on the AIIMS Delhi cyberattack (2022).
+ ## Source: News reports on the AIIMS Delhi cyberattack (2022).
