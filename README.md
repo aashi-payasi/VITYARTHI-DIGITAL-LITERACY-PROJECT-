@@ -6,10 +6,20 @@ The scenerio under which i am makaing my project as given by teacher is:I have j
 is to help my  peers navigate the digital world — from creating professional online
 profiles, to communicating safely and responsibly online. My first assignment is to build
 a Digital Literacy Portfolio that I  will present to the faculty committee and share with
-your batch.To complete this assignment, I  will work through five tasks- 
-**Task1 Create a Digital Literacy Awareness Infographic**: a single infographic or visual slide that covers at least 3 of the followingtopics: what digital literacy is, useful digital tools for students, safe internet practices,professional online presence, email etiquette.
-**Task2 Build Your Student Digital Portfolio** :In this task, you will setup your foundational portfolio across the key platforms that employers, internship coordinators, and the academic community check.
-**Task3 Explore Coding & Collaboration Platforms** :his task builds familiarity with twocategories: coding practice platforms and cloud collaboration tools.
+your batch.To complete this assignment, I  will work through five tasks-
+
+
+
+ ## **Task1 Create a Digital Literacy Awareness Infographic**: a single infographic or visual slide that covers at least 3 of the followingtopics: what digital literacy is, useful digital tools for students, safe internet practices,professional online presence, email etiquette.
+
+
+
+
+ ## **Task2 Build Your Student Digital Portfolio** :In this task, you will setup your foundational portfolio across the key platforms that employers, internship coordinators, and the academic community check.
+
+
+ 
+## **Task3 Explore Coding & Collaboration Platforms** :his task builds familiarity with twocategories: coding practice platforms and cloud collaboration tools.
 **Part A – Coding Practice (choose one):**
  Create an account on HackerRank, CodeChef, or HackerEarth.
 Complete at least one beginner-level challenge or skill test (e.g., HackerRank's
@@ -18,7 +28,11 @@ Complete at least one beginner-level challenge or skill test (e.g., HackerRank's
  Create a Google Form with exactly 5 questions that could be used as a 'Digital
 Literacy Awareness Quiz' for your batchmates. Include at least one multiple choice
 question and one short answer question.
- **Task4 Draft a Professional Email & Etiquette Guide** :This task tests whether you can apply email etiquette yourself, and whether you can communicate those rules clearly to others.
+
+
+
+
+##  **Task4 Draft a Professional Email & Etiquette Guide** :This task tests whether you can apply email etiquette yourself, and whether you can communicate those rules clearly to others.
 **Part A – Write two professional emails:**
 Email 1 — Write an email from a student to their professor requesting an extension on an
 assignment submission deadline. The email must follow all professional email rules.
@@ -27,7 +41,13 @@ expressing interest in a summer internship opportunity.
 **Part B – Create a Social Media Do's and Don'ts checklist:**
  Create a simple checklist (can be a table or a bulleted list in your report) with at least
 5 Do's and 5 Don'ts for responsible social media use as a college student.
-**Task5 Cybercrime Awareness Case Study & PreventionGuide**:
+
+
+
+
+
+
+## **Task5 Cybercrime Awareness Case Study & PreventionGuide**:
 This task requires ME to research a real or realistic cybercrime scenario andproduce an awareness resource.
 **Part A – Case Study:**
  Choose one of the following cybercrime types: Phishing, UPI/Online Payment Fraud,
@@ -43,6 +63,11 @@ tips relevant to college students in India.
  Include the reporting channel: National Cyber Crime Portal (cybercrime.gov.in) and
 Helpline 1930.
 
+
+
+
+
+
 **TOOLS USED BY ME FOR COMPLETING ALL THSES TASKS ARE:**
 TASK 1:  Canva, Prezi, Miro, or any free presentation/design tool.
 TASK 2: least three of the following platforms: GitHub,LinkedIn, Kaggle, Stack Overflow, ResearchGate.
@@ -50,7 +75,17 @@ TASK 3: FOR PART A HackerRank, CodeChef, or HackerEarth.
         FOR PART B  Create a Google Form .
       
 **task 1 link for the presentation** :https://www.canva.com/design/DAHE4fgeclI/EdAzmTxpXHFQhScqGR_GTg/edit?ui=e30&referrer=https%3A%2F%2Fwww.canva.com%2F
+
+
+
 **TASK 2**: C:\Users\bhoomika payasi\Music\task2 portfolio
+
+
 **TASK 4:#PART B** LINK OF CHECKLIST: https://github.com/aashi-payasi/VITYARTHI-DIGITAL-LITERACY-PROJECT-/blob/main/task4/checklist.md
+
+
+
 **TASK 5:# PART A**LINK OF CHECKLIST: https://github.com/aashi-payasi/VITYARTHI-DIGITAL-LITERACY-PROJECT-/blob/main/task5/casestudy.md
+
+
 **TASK 5:# PART B**LINK OF CHECKLIST:https://github.com/aashi-payasi/VITYARTHI-DIGITAL-LITERACY-PROJECT-/blob/main/task5/prevention-checklist.md
